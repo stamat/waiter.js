@@ -9,6 +9,8 @@ It can wait for a DOM object or data to appear infinitely or you can provide the
 
 Open up the code, it's supersimple and easy to understand! https://github.com/stamat/waiter.js/blob/master/waiter.js
 
+I wrote this like a gazilion times, and finally got fed up by writing the same code...
+
 ### Example usage
 
 Waiting for OKENDO code to load
