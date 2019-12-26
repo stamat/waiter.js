@@ -7,6 +7,8 @@ When you use thirdparty frontend plugins that inject DOM or data asynchoriniusly
 
 It can wait for a DOM object or data to appear infinitely or you can provide the number of tryes untill it fails, to prevent resource consumption.
 
+Open up the code, it's supersimple and easy to understand! https://github.com/stamat/waiter.js/blob/master/waiter.js
+
 ### Example usage
 
 Waiting for OKENDO code to load
